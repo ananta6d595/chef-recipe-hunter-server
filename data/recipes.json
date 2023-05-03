@@ -1,0 +1,100 @@
+{
+    "recipes": [
+        {   "recipe_id":1,
+            "recipe_name": "Classic Hamburger",
+            "ingredients": [
+                "ground beef",
+                "salt",
+                "pepper",
+                "hamburger buns",
+                "lettuce",
+                "tomato",
+                "onion",
+                "cheese",
+                "ketchup",
+                "mustard"
+            ],
+            "cooking_method": "1. Preheat grill to medium-high heat.\n2. Divide ground beef into four equal portions and shape into patties.\n3. Season each patty with salt and pepper on both sides.\n4. Grill patties for 3-4 minutes per side, until desired doneness is reached.\n5. Toast hamburger buns on the grill for 1-2 minutes.\n6. Assemble burgers by placing a patty on each bun, then adding lettuce, tomato, onion, cheese, ketchup, and mustard as desired.\n7. Serve immediately.",
+            "rating": 4.8
+        },
+        {   "recipe_id":2,
+            "recipe_name": "Macaroni and Cheese",
+            "ingredients": [
+                "macaroni",
+                "butter",
+                "flour",
+                "milk",
+                "cheddar cheese",
+                "salt",
+                "pepper",
+                "breadcrumbs"
+            ],
+            "cooking_method": "1. Preheat oven to 375°F (190°C) and grease a 9x13-inch (23x33 cm) baking dish.\n2. Cook macaroni according to package instructions, then drain and set aside.\n3. In a large saucepan, melt butter over medium heat.\n4. Whisk in flour and cook for 1-2 minutes, until lightly browned.\n5. Gradually whisk in milk and bring to a simmer, stirring constantly.\n6. Stir in grated cheddar cheese until melted and smooth.\n7. Season with salt and pepper to taste.\n8. Stir in cooked macaroni and transfer mixture to prepared baking dish.\n9. Sprinkle breadcrumbs over the top of the macaroni and cheese.\n10. Bake for 20-25 minutes, until bubbly and golden brown on top.\n11. Let cool for a few minutes before serving.",
+            "rating": 4.7
+        },
+        {   "recipe_id":3,
+            "recipe_name": "Chicken Fried Steak",
+            "ingredients": [
+                "beef cube steak",
+                "salt",
+                "pepper",
+                "flour",
+                "egg",
+                "milk",
+                "vegetable oil",
+                "gravy mix",
+                "water"
+            ],
+            "cooking_method": "1. Season cube steak with salt and pepper on both sides.\n2. Set up a breading station by placing flour in one shallow dish, beaten egg and milk in another shallow dish.\n3. Dip each cube steak into flour, then egg mixture, then flour again.\n4. Heat vegetable oil in a large skillet over medium-high heat.\n5. Fry cube steaks in hot oil for 3-4 minutes per side, until golden brown and crispy.\n6. Remove cube steaks from skillet and set aside on a plate.\n7. In the same skillet, whisk together gravy mix and water.\n8. Bring to a boil, stirring constantly, then reduce heat and simmer for 2-3 minutes.\n9. Serve cube steaks with gravy spooned over the top.",
+            "rating": 4.5
+        },
+        {   "recipe_id":4,
+            "recipe_name": "BBQ Ribs",
+            "ingredients": [
+                "pork ribs",
+                "BBQ sauce",
+                "brown sugar",
+                "paprika",
+                "garlic powder",
+                "onion powder",
+                "salt",
+                "pepper"
+            ],
+            "cooking_method": "1. Preheat oven to 300°F (150°C).\n2. Mix together brown sugar, paprika, garlic powder, onion powder, salt, and pepper to make a dry rub.\n3. Rub dry mixture generously over both sides of the ribs.\n4. Wrap ribs tightly in foil and place on a baking sheet.\n5. Bake ribs in the oven for 3-4 hours, until tender and falling off the bone.\n6. Remove ribs from oven and increase temperature to 400°F (200°C).\n7. Brush BBQ sauce over both sides of the ribs.\n8. Place ribs back in the oven and bake for an additional 15-20 minutes, until sauce is caramelized and sticky.\n9. Let cool for a few minutes before serving.",
+            "rating": 4.9
+        },
+        {   "recipe_id":5,
+            "recipe_name": "Fried Chicken",
+            "ingredients": [
+                "chicken drumsticks",
+                "buttermilk",
+                "flour",
+                "paprika",
+                "garlic powder",
+                "onion powder",
+                "salt",
+                "pepper",
+                "vegetable oil"
+            ],
+            "cooking_method": "1. Soak chicken drumsticks in buttermilk for at least 1 hour, or overnight.\n2. In a shallow dish, mix together flour, paprika, garlic powder, onion powder, salt, and pepper to make a coating mixture.\n3. Remove chicken from buttermilk and coat each piece in the flour mixture, pressing the coating onto the chicken.\n4. Heat vegetable oil in a large skillet or deep fryer to 350°F (175°C).\n5. Fry chicken drumsticks in hot oil for 10-12 minutes, until golden brown and cooked through.\n6. Drain on a wire rack or paper towels before serving.",
+            "rating": 4.6
+        },
+        {   "recipe_id":6,
+            "recipe_name": "Meatloaf",
+            "ingredients": [
+                "ground beef",
+                "breadcrumbs",
+                "egg",
+                "milk",
+                "onion",
+                "ketchup",
+                "brown sugar",
+                "mustard",
+                "salt",
+                "pepper"
+            ],
+            "cooking_method": "1. Preheat oven to 350°F (175°C) and grease a loaf pan.\n2. In a large bowl, mix together ground beef, breadcrumbs, egg, milk, chopped onion, salt, and pepper.\n3. Press mixture into prepared loaf pan.\n4. In a small bowl, whisk together ketchup, brown sugar, and mustard to make a glaze.\n5. Spread glaze over the top of the meatloaf.\n6. Bake meatloaf in the oven for 45-60 minutes, until cooked through and the internal temperature reaches 160°F (71°C).\n7. Let cool for a few minutes before slicing and serving.",
+            "rating": 4.4
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "chef_picture": "https://example.com/chef1.jpg",
+        "chef_name": "Bobby Flay",
+        "experience": 35,
+        "number_of_recipes": 500,
+        "likes": 25000,
+        "description": "Bobby Flay is a celebrity chef and restaurateur known for his bold flavors and Southwestern cuisine. He has authored numerous cookbooks and has hosted several cooking shows on television."
+    },
+    {
+        "id":2,
+        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_name": "Ina Garten",
+        "experience": 40,
+        "number_of_recipes": 700,
+        "likes": 30000,
+        "description": "Ina Garten is a cookbook author and television host known for her approachable recipes and warm personality. She is the owner of the Barefoot Contessa specialty food store and has authored several best-selling cookbooks."
+    },
+    {
+        "id":3,
+        "chef_picture": "https://example.com/chef3.jpg",
+        "chef_name": "Gordon Ramsay",
+        "experience": 30,
+        "number_of_recipes": 800,
+        "likes": 40000,
+        "description": "Gordon Ramsay is a world-renowned chef and television personality known for his fiery personality and high standards in the kitchen. He has several Michelin-starred restaurants and has authored numerous cookbooks."
+    },
+    {
+        "id":4,
+        "chef_picture": "https://example.com/chef4.jpg",
+        "chef_name": "Julia Child",
+        "experience": 50,
+        "number_of_recipes": 300,
+        "likes": 20000,
+        "description": "Julia Child was a pioneer in bringing French cuisine to the American public through her cookbooks and television shows. She was known for her passion for cooking and her engaging personality."
+    },
+    {
+        "id":5,
+        "chef_picture": "https://example.com/chef5.jpg",
+        "chef_name": "Mario Batali",
+        "experience": 25,
+        "number_of_recipes": 400,
+        "likes": 15000,
+        "description": "Mario Batali is a chef, restaurateur, and television personality known for his Italian cuisine. He has several restaurants around the world and has authored several cookbooks."
+    },
+    {
+        "id":6,
+        "chef_picture": "https://example.com/chef6.jpg",
+        "chef_name": "Rachael Ray",
+        "experience": 20,
+        "number_of_recipes": 600,
+        "likes": 18000,
+        "description": "Rachael Ray is a television personality, author, and chef known for her quick and easy recipes. She has authored numerous cookbooks and has hosted several cooking shows on television."
+    }
+]
