@@ -21,7 +21,7 @@ app.get('/chefs/:id', (req, res) => {
 
     const reqId = parseInt(req.params.id);
     const expectedChef = chef.find(cf => cf.id === reqId)
-    // console.log(expectedChef );
+
     res.send(expectedChef)
 })
 
@@ -33,7 +33,7 @@ app.get('/recipe/:id', (req, res) => {
 
     const reqId = parseInt(req.params.id);
     const expectedRecipe = recipes.recipes.find(cf => cf.id === reqId)
-    console.log(expectedRecipe );
+
     res.send(expectedRecipe)
 
 })
